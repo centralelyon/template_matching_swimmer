@@ -1,6 +1,8 @@
 # Rôle des différents fichiers
 
-__test_zoom.py__ :
+__opencv.py__ : template matching naïf
+
+__test_zoom.py__ : 
 
 __zoom_positions_modif.py__ : algorithme de zoom modifié pour prendre en paramètre le numéro du nageur
 
