@@ -10,6 +10,6 @@ __rotate_and_scale.py__ : script permettant de générer une pyramide d'un templ
 
 __test_ORB.py__ : template matching en utilisant l'extracteur de featuree "ORB" 
 
-__reflet.py__ :correction de reflets 
+__reflet.py__ : correction de reflets 
 
 __background_suppression.py__ : suppression du background
