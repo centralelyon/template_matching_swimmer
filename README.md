@@ -2,8 +2,6 @@
 
 __opencv.py__ : template matching naïf
 
-__test_zoom.py__ : 
-
 __zoom_positions_modif.py__ : algorithme de zoom modifié pour prendre en paramètre le numéro du nageur
 
 __rotate_and_scale.py__ : script permettant de générer une pyramide d'un template comportant plusieurs rotations et plusieurs changements d'échelles
